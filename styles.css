@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #050505;
+    color: #050505;
+    font-family: Arial, sans-serif;
+}
+
+#gameCanvas {
+    background-color: #000000;
+}
